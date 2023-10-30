@@ -1,0 +1,51 @@
+https://replit.com/join/mjwllqfehw-emirgutierrez1
+
+temp = float (input("temperatura"))
+if temp > 90:
+ print ("¡Que calor!")
+
+
+
+
+https://replit.com/join/hdsrkkmlyn-emirgutierrez1https://replit.com/join/hdsrkkmlyn-emirgutierrez1
+
+numero = int(input("ingrese un numero:"))
+if numero > 0:
+  print ("El numero es positivo")
+elif numero < 0:
+  print ("El numero es negativo")
+else:
+  print ("El numero es cero")
+
+
+
+
+https://replit.com/join/mmxmamseaa-emirgutierrez1
+
+numero = int(input("Ingrese su numero:"))
+
+if numero >= -10 and numero <= 10:
+  print("Hurra!")
+
+
+
+https://replit.com/join/bbbrmfnvch-emirgutierrez1
+
+respuesta = input ("Camarón que se duerme:")
+print("A. se lo lleva la corriente")
+print ("B. jamás se endereza")
+if respuesta == "A":
+ print ("Correcto!")
+else:
+ print("No es correcto")
+
+
+
+https://replit.com/join/wplsdkhnja-emirgutierrez1
+
+x = 4
+if x >= 0:
+    print("x es positivo.")
+else:
+    print("x no es positivo.")
+
